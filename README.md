@@ -20,7 +20,7 @@ This Python script is designed to automatically convert files from Dart (.dart) 
 
 2. **Place your `.dart` files** in a source directory if they are not already organized.
 
-3. **Open the script** (`convert_dart_to_txt.py`) in your favorite text editor or IDE and set the `source_folder` and `destination_folder` variables to your source and destination directories, respectively.
+3. **Open the script** (`dart2txt.py`) in your favorite text editor or IDE and set the `source_folder` and `destination_folder` variables to your source and destination directories, respectively.
 
     ```python
     source_folder = '/path/to/your/source/folder'  # Update this with the path to your .dart files
@@ -30,7 +30,7 @@ This Python script is designed to automatically convert files from Dart (.dart) 
 4. **Run the script** in your terminal or command prompt:
 
     ```bash
-    python convert_dart_to_txt.py
+    python dart2txt.py
     ```
 
 5. **Check your destination folder** for the `.txt` files.
